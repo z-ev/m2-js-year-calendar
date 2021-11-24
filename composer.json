@@ -1,0 +1,17 @@
+{
+    "name": "evgeniizab/m2-js-year-calendar",
+    "description": "JS Year Calendar for magento",
+    "type": "magento2-module",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "php": "^7.3",
+        "magento/magento-composer-installer": "*",
+        "psr/log": "^1.1"
+    },
+    "autoload": {
+        "psr-4": { "EvgeniiZab\\YearCalendar\\": "" },
+        "files": [ "registration.php" ]
+    }
+}
