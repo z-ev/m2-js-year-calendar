@@ -1,6 +1,6 @@
 {
-    "name": "evgeniizab/m2-js-year-calendar",
-    "description": "JS Year Calendar for magento",
+    "name": "z-ev/m2-js-year-calendar",
+    "description": "Year calendar for magento",
     "type": "magento2-module",
     "license": [
         "MIT"
