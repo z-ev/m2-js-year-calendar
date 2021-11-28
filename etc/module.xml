@@ -2,6 +2,9 @@
 <!--Copyright © 2021 Evgenii e@zab.bz-->
 <!--See LICENSE for license details. -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="EvgeniiZab_YearCalendar" setup_version="1.0.0">
+    <module name="ZEV_YearCalendar" setup_version="1.0.0">
+        <sequence>
+            <module name="ZEV_EZCore"/>
+        </sequence>
     </module>
 </config>

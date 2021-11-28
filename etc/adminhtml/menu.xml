@@ -3,10 +3,10 @@
 <!--See LICENSE for license details. -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="EvgeniiZab_YearCalendar::menu"
-             title="JS Year Calendar" module="EvgeniiZab_YearCalendar"
-             sortOrder="10"
-             resource="EvgeniiZab_EZCore::content"
+        <add id="ZEV_YearCalendar::menu"
+             title="Year calendar" module="ZEV_YearCalendar"
+             sortOrder="1"
+             resource="ZEV_EZCore::content"
         />
     </menu>
 </config>

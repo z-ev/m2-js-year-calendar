@@ -9,6 +9,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    "EvgeniiZab_YearCalendar",
+    "ZEV_YearCalendar",
     __DIR__
 );
